@@ -1,4 +1,4 @@
-## Hi there 👋
+AI/ML theory nerd. I also enjoy reverse engineering and low level C/C++ programming as well. 
 
 <!--
 **kabirdjain/kabirdjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
